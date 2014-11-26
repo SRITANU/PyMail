@@ -1,4 +1,4 @@
 PyMail
 ======
 
-A Mailclient in Python
+A Command Line GMail-client in written in Python
